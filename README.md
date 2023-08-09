@@ -1,6 +1,8 @@
 # Mini Project Python Robotics
 For this task, I have used the existing implementation of the D* algorithm. I review the given code and modify it in the existing file. You can find my updated code at the following links:https://github.com/ParthbRupapara/-PythonRobotics
 
+## Run this command to install required libraries :- pip install -r requirements/requirements.txt
+
 
 1) Converting grayscale images to dynamically create obstacle grid maps:
 ==> To accomplish this point, I created a function called readGrayScaleImg() that reads grayscale images and finds out the position of obstacles.

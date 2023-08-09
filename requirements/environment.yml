@@ -8,3 +8,4 @@ dependencies:
   - numpy
   - cvxpy
   - matplotlib
+  - opencv-python
