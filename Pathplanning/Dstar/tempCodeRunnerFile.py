@@ -1,0 +1,1 @@
+image = cv.imread('./Input_Images/map.png', cv.IMREAD_GRAYSCALE)
